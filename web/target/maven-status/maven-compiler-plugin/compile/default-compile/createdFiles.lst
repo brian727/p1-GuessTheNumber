@@ -1,0 +1,8 @@
+brian\com\util\AttributeNames.class
+brian\com\service\GameService.class
+brian\com\service\GameServiceImpl.class
+brian\com\config\WebConfig.class
+brian\com\controller\GameController.class
+brian\com\util\ViewNames.class
+brian\com\util\GameMappings.class
+brian\com\WebMain.class
